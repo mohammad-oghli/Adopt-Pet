@@ -21,7 +21,7 @@ It will run on `http://127.0.0.1:5000`
 
 It's a simple flask app for pets site 
 
-All the data of the app based on a predefined `dictionary` without using any database.
+All the data of the app based on a predefined `dictionary` without using any database
 
 The main functionalities of this app:
 * Show available pets.
