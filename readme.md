@@ -1,5 +1,5 @@
 ## Adopt Pet Simple Flask App
-In order to install flask dependency run this command in your terminal:
+In order to install `Flask` dependency run this command in your terminal:
 
 `pip install flask`
 
